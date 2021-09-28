@@ -1,7 +1,6 @@
 <item>
 <title>[B][COLOR white]COLETÃNEA MOMENTS[/COLOR] [/B]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLQEErFvufMF97lMQ9bZuA_cNOUKn68eFK/?page=0</jsonrpc>
+<utube>PLQEErFvufMF97lMQ9bZuA_cNOUKn68eFK</utube>
 <thumbnail>https://i.ibb.co/Ks9L0BB/moments.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/yH0Dlh0kRIQ/maxresdefault.jpg</fanart>
 </item>
