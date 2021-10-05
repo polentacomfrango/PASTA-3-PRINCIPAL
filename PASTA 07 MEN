@@ -20,6 +20,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR violet]RADIOS[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/4tzG4X9/RADIO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-3-PRINCIPAL/main/PASTA%2009</externallink>
+<fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
+<info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR violet]SHOWS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/W0JQVFF/SHOWS-MENU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-3-PRINCIPAL/main/PASTA%2008</externallink>
