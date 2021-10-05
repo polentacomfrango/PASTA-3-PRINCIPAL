@@ -51,10 +51,10 @@ https://streaming.geracaoradios.com/rocknacional
 #EXTINF:-1 tvg-id="FUNK" tvg-name="FUNK" tvg-logo="https://i.ibb.co/G2BRxKL/FUNK.png" group-title="FUNK",FUNK
 https://streaming.geracaoradios.com/funk
 
-#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/p3VmHyQ/hip-hop.png" group-title="HIP HOP",HIP HOP
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
 https://streaming.geracaoradios.com/rap
 
-#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/NCFwfT2/kids.png" group-title="KIDS",KIDS
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/9hJ0fqb/kids.png" group-title="KIDS",KIDS
 https://streaming.geracaoradios.com/kids
 
 #EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
@@ -159,7 +159,7 @@ https://f46.fabricahost.com.br/classicafm?f=1617388394N65cc6e46fe3545b897730ecae
 #EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/GMgY5S7/ANOS-70.png" group-title="ANOS 70",ANOS 70
 https://bigrradio.cdnstream1.com/5181_128
 
-#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/6NTkd0P/as-melho.png" group-title="ANOS 80",AS MELHORES DO FLASHBACK
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/GMgY5S7/ANOS-70.png" group-title="ANOS 80",AS MELHORES DO FLASHBACK
 http://stream.zeno.fm/1h16tvucgv8uv
 
 #EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/TLDYZmd/ANOS-80.png" group-title="ANOS 80",ANOS 80
