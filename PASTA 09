@@ -52,13 +52,59 @@ https://streaming.geracaoradios.com/rocknacional
 https://streaming.geracaoradios.com/funk
 
 #EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://node-10.zeno.fm/7c83b37e32quv?1633477547247=&rj-tok=AAABfFLigncAEMeWuHOezMaVhQ&rj-ttl=5
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://centova5.transmissaodigital.com:20031/;
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://f54.fabricahost.com.br/hot98santos?f=1633477781Ne74f17ff09a2c2e9900b7a72caf500f0
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
 https://streaming.geracaoradios.com/rap
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://live.powerhitz.com/hot108?aw_0_req.gdpr=true
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://17563.live.streamtheworld.com/977_JAMZ.mp3
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://17563.live.streamtheworld.com/977_JAMZ.mp3
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://strm112.1.fm/jamz_mobile_mp3
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+http://hydra.cdnstream.com/1540_128
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/yyDWbVh/hip-hop.png" group-title="HIP HOP",HIP HOP
+http://listen.one.hiphop/live
 
 #EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/9hJ0fqb/kids.png" group-title="KIDS",KIDS
 https://streaming.geracaoradios.com/kids
 
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/9hJ0fqb/kids.png" group-title="KIDS",KIDS
+https://servidor.geracaoradios.com/radio/8000/stream?1633476625985
+
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/9hJ0fqb/kids.png" group-title="KIDS",KIDS
+https://strm112.1.fm/kidsfm_mobile_mp3
+
 #EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
 http://sc.radiocabrito.com:13386/;
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://strm112.1.fm/country_mobile_mp3
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://strmreg.1.fm/ccountry_mobile_mp3
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://cast.mgtradio.net/radio/8000/aac
+
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://strm112.1.fm/acountry_mobile_mp3
 
 #EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/dGTLYpr/SERTANEJO.png" group-title="SERTANEJO",SERTANEJO RAIZ
 https://centova5.transmissaodigital.com:20024/;
@@ -275,6 +321,9 @@ http://srv1.braudio.com.br:7308/;stream.nsv
 
 #EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/D4hQcvb/eletronica.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
 https://sc1s.cdn.upx.com:9895/stream
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/D4hQcvb/eletronica.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+https://stream.vagalume.fm/hls/1502918825904272/aac.m3u8
 
 #EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/D4hQcvb/eletronica.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
 https://sc1s.cdn.upx.com:9047/stream
