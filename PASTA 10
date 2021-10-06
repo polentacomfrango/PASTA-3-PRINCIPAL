@@ -1,7 +1,7 @@
 <item>
 <title>[B] [COLOR violet]PARA MALHAR [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1507143889433932/default</thumbnail>
-<fanart>https://pavbca.com/walldb/original/7/c/6/549680.jpg</fanart>
+<fanart>http://academiaolimpicafit.com.br/blog/wp-content/uploads/2018/12/Background-Academia-Mobile.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8</link>
 <info>Uma seleção com hits e remixes para embalar o seu treino!</info>
 </item>
@@ -9,7 +9,7 @@
 <item>
 <title>[B] [COLOR violet]TOP 50 NACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
-<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/13/listening-to-music.jpg</fanart>
+<fanart>https://besthqwallpapers.com/Uploads/4-9-2018/64558/thumb2-flag-of-brazil-grunge-style-art-splashes-of-paint-brazilian-flag.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/147017028452123/aac.m3u8</link>
 <info>Um termômetro com os sucessos nacionais do momento, baseado no Top Vagalume e músicas mais ouvidas nas rádios e serviços de streaming!</info>
 </item>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR violet]LANÇAMENTOS INTERNACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]LANÇAMENTOS  [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1476469524740247/default</thumbnail>
 <fanart>https://konachan.com/image/d95e35fd8dfc6671944eff0ccce7d6a1/Konachan.com%20-%20121327%20angel_beats%21%20headphones%20microphone%20nakamura_yuri%20school_uniform%20tachibana_kanade%20yui_%28angel_beats%21%29.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8</link>
@@ -160,17 +160,17 @@
 </item>
 
 <item>
-<title>[B] [COLOR violet]MUSICAS PARA VIAJAR [/COLOR][/B]</title>		
-<thumbnail>https://www.vagalume.com.br/1508779923321353/default</thumbnail>
-<fanart>https://c4.wallpaperflare.com/wallpaper/421/594/520/anime-girl-strawhat-train-trip-fields-wallpaper-preview.jpg</fanart>
-<link>https://stream.vagalume.fm/hls/1508779923321353/aac.m3u8</link>
-<info>Vai pegar a estrada? Essa é a estação certa!</info>
+<title>[B] [COLOR violet]FESTA PARA CRIANÇAS INTERNACIONAL [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1491501256193510/default</thumbnail>
+<fanart>https://theshoppers.com/wp-content/uploads/cover-1-2.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1491501256193510/aac.m3u8</link>
+<info>Uma estação para animar a festa da criançada, com músicas que irão agradar os pequenos e também os já crescidos</info>
 </item>
 
 <item>
 <title>[B] [COLOR violet]ROCK [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1464201608479108132/default</thumbnail>
-<fanart>https://c4.wallpaperflare.com/wallpaper/11/602/404/anime-girl-hair-headphones-wallpaper-preview.jpg</fanart>
+<fanart>https://a-static.besthdwallpaper.com/musica-sumario-da-guitarra-papel-de-parede-2048x1536-14690_26.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8</link>
 <info>Uma programação repleta de sucessos e representantes dos mais diversos estilos do rock, nas últimas décadas.</info>
 </item>
@@ -263,6 +263,33 @@
 <link>https://stream.vagalume.fm/hls/1477328157403419/aac.m3u8</link>
 <info>Escute a trilha sonora perfeita para sua formatura! Aqui você encontra alguns clássicos e também músicas de 2013 à 2016.</info>
 </item>
+
+<item>
+<title>[B] [COLOR violet] FORRÓ [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/147015501223418/default</thumbnail>
+<fanart>https://wallpapercrafter.com/desktop/127422-anime-girls-closed-eyes-anime-profile.png</fanart>
+<link>https://stream.vagalume.fm/hls/147015501223418/aac.m3u8</link>
+<info>Clássicos e novos sucessos do Forró!</info>
+</item>
+
+<item>
+<title>[B] [COLOR violet] HEARTBRAKE[/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1475692353902158/default</thumbnail>
+<fanart>https://i1.wp.com/p4.wallpaperbetter.com/wallpaper/262/391/612/anime-girl-profile-view-brown-hair-buildings-wallpaper-preview.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1475692353902158/aac.m3u8</link>
+<info>Para quem está com o coração partido, as melhores músicas de fossa de todos os gêneros.</info>
+</item>
+
+<item>
+<title>[B] [COLOR violet] FUNK[/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1470154922349875/default</thumbnail>
+<fanart>https://www.wallpaperup.com/uploads/wallpapers/2015/06/01/707221/c1830be20fdad7520634a61a144867ab-700.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8</link>
+<info>O melhor do funk nacional!</info>
+</item>
+
+
+
 
 
 
