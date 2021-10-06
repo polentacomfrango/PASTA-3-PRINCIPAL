@@ -1,19 +1,22 @@
 <item>
 <title>[/B] [COLOR green]PARA MALHAR [/COLOR][/B]</title>		
-<thumbnail>https://www.vagalume.com.br/14671417541091220806/default</thumbnail>
-<fanart>https://static.vecteezy.com/system/resources/thumbnails/002/016/917/original/blur-firefly-particles-background-free-video.jpg</fanart>
-<link>https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8</link>
-<info>Um jovem menino aprende que tem poderes extraordinários e não é desta Terra. Quando jovem, ele viaja para descobrir de onde veio e para o quê foi enviado a fazer. Mas o herói nele deve emergir se quiser salvar o mundo da aniquilação e se tornar o símbolo de esperança para toda a humanidade.</info>
+<thumbnail>https://www.vagalume.com.br/1507143889433932/default</thumbnail>
+<fanart>https://pavbca.com/walldb/original/7/c/6/549680.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8</link>
+<info>Uma seleção com hits e remixes para embalar o seu treino!</info>
+</item>
+
+<item>
+<title>[/B] [COLOR green]TOP 50 NACIONAL [/COLOR][/B]</title>		
+<thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/13/listening-to-music.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/147017028452123/aac.m3u8</link>
+<info>Um termômetro com os sucessos nacionais do momento, baseado no Top Vagalume e músicas mais ouvidas nas rádios e serviços de streaming!</info>
 </item>
 
 
 
 
-#EXTINF:-1 tvg-id="VAGALUME" tvg-name="VAGALUME" tvg-logo="https://i.ibb.co/yfs86tF/NOTICIAS.png" group-title="VAGALUME",PARA MALHAR
-https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8
-
-#EXTINF:-1 tvg-id="VAGALUME" tvg-name="VAGALUME" tvg-logo="https://i.ibb.co/yfs86tF/NOTICIAS.png" group-title="VAGALUME",TOP 50 NACIONAL
-https://stream.vagalume.fm/hls/147017028452123/aac.m3u8
 
 #EXTINF:-1 tvg-id="VAGALUME" tvg-name="VAGALUME" tvg-logo="https://i.ibb.co/yfs86tF/NOTICIAS.png" group-title="VAGALUME",TOP 50 INTERNACIONAL
 https://stream.vagalume.fm/hls/1470170299760930/aac.m3u8
