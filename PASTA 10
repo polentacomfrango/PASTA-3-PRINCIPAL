@@ -1,5 +1,5 @@
 <item>
-<title>[/B] [COLOR green]PARA MALHAR [/COLOR][/B]</title>		
+<title>[B] [COLOR green]PARA MALHAR [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1507143889433932/default</thumbnail>
 <fanart>https://pavbca.com/walldb/original/7/c/6/549680.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8</link>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[/B] [COLOR green]TOP 50 NACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR green]TOP 50 NACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
 <fanart>https://free4kwallpapers.com/uploads/originals/2015/07/13/listening-to-music.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/147017028452123/aac.m3u8</link>
@@ -15,12 +15,61 @@
 </item>
 
 <item>
-<title>[/B] [COLOR green]TOP 50 INTERNACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR green]TOP 50 INTERNACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1470170299760930/default</thumbnail>
-<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/13/listening-to-music.jpg</fanart>
+<fanart>https://www.wallpaperup.com/uploads/wallpapers/2013/12/12/193361/eefcdae34da59b45f6387835e8b0d2c7.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1470170299760930/aac.m3u8</link>
 <info>Um termômetro com os sucessos internacionais do momento, baseado no Top Vagalume e músicas mais ouvidas nas rádios e serviços de streaming!</info>
 </item>
+
+<item>
+<title>[B] [COLOR green]LANÇAMENTOS INTERNACIONAL [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1476469524740247/default</thumbnail>
+<fanart>https://konachan.com/image/d95e35fd8dfc6671944eff0ccce7d6a1/Konachan.com%20-%20121327%20angel_beats%21%20headphones%20microphone%20nakamura_yuri%20school_uniform%20tachibana_kanade%20yui_%28angel_beats%21%29.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8</link>
+<info>Escute os mais recentes lançamentos, em nossa estação sempre atualizada com as melhores novidades!</info>
+</item>
+
+<item>
+<title>[B] [COLOR green]POP ROCK BRASIL [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/14671417541091220806/default</thumbnail>
+<fanart>https://i.ytimg.com/vi/9Eh42E6POlo/maxresdefault.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8</link>
+<info>Canções que fizeram a história do rock brasileiro nos anos 80 e 90, músicas menos conhecidas, sucessos da época e bandas cult!</info>
+</item>
+
+<item>
+<title>[B] [COLOR green]SERTANEJO HITS [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/14619606471054026608/default</thumbnail>
+<fanart>https://dthezntil550i.cloudfront.net/cf/latest/cf1705120259490760001848057/1280_960/298608d6-4a88-46d0-a8af-3cbb6f7e4a44.png</fanart>
+<link>https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8</link>
+<info>O melhor da música nacional sertaneja com lançamentos e grandes sucessos!</info>
+</item>
+
+<item>
+<title>[B] [COLOR green]COUNTRY HITS [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1470155128108369/default</thumbnail>
+<fanart>https://i.pinimg.com/originals/c9/ec/ba/c9ecba6cf1f4831ab5fd6c21fd8c1af5.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1470155128108369/aac.m3u8</link>
+<info>Os grandes sucessos da Country Music, com Shania Twain, Blake Shelton, Taylor Swift e muito mais!</info>
+</item>
+
+<item>
+<title>[B] [COLOR green]LO-FI HITS [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1528731664462844/default</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp3186136.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1528731664462844/aac.m3u8</link>
+<info>Batidas perfeitas para ajudar você a relaxar e estudar</info>
+</item>
+
+<item>
+<title>[B] [COLOR green]J-POP [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1475776167864381/default</thumbnail>
+<fanart>https://www.desktopbackground.org/download/800x600/2014/01/19/703779_wallpapers-dj-anime-girl-1280x800_1280x800_h.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8</link>
+<info>Uma programação repleta dos grandes sucessos dos animes, doramas e da música pop japonesa em geral!</info>
+</item>
+
 
 
 
