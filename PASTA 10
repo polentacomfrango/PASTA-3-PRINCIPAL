@@ -1,5 +1,5 @@
 <item>
-<title>[B] [COLOR green]PARA MALHAR [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]PARA MALHAR [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1507143889433932/default</thumbnail>
 <fanart>https://pavbca.com/walldb/original/7/c/6/549680.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8</link>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]TOP 50 NACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]TOP 50 NACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
 <fanart>https://free4kwallpapers.com/uploads/originals/2015/07/13/listening-to-music.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/147017028452123/aac.m3u8</link>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]TOP 50 INTERNACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]TOP 50 INTERNACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1470170299760930/default</thumbnail>
 <fanart>https://www.wallpaperup.com/uploads/wallpapers/2013/12/12/193361/eefcdae34da59b45f6387835e8b0d2c7.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1470170299760930/aac.m3u8</link>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]LANÇAMENTOS INTERNACIONAL [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]LANÇAMENTOS INTERNACIONAL [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1476469524740247/default</thumbnail>
 <fanart>https://konachan.com/image/d95e35fd8dfc6671944eff0ccce7d6a1/Konachan.com%20-%20121327%20angel_beats%21%20headphones%20microphone%20nakamura_yuri%20school_uniform%20tachibana_kanade%20yui_%28angel_beats%21%29.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8</link>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]POP ROCK BRASIL [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]POP ROCK BRASIL [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/14671417541091220806/default</thumbnail>
 <fanart>https://i.ytimg.com/vi/9Eh42E6POlo/maxresdefault.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8</link>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]SERTANEJO HITS [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]SERTANEJO HITS [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/14619606471054026608/default</thumbnail>
 <fanart>https://dthezntil550i.cloudfront.net/cf/latest/cf1705120259490760001848057/1280_960/298608d6-4a88-46d0-a8af-3cbb6f7e4a44.png</fanart>
 <link>https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8</link>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]COUNTRY HITS [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]COUNTRY HITS [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1470155128108369/default</thumbnail>
 <fanart>https://i.pinimg.com/originals/c9/ec/ba/c9ecba6cf1f4831ab5fd6c21fd8c1af5.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1470155128108369/aac.m3u8</link>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]LO-FI HITS [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]LO-FI HITS [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1528731664462844/default</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3186136.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1528731664462844/aac.m3u8</link>
@@ -63,20 +63,46 @@
 </item>
 
 <item>
-<title>[B] [COLOR green]J-POP [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]J-POP [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/1475776167864381/default</thumbnail>
 <fanart>https://www.desktopbackground.org/download/800x600/2014/01/19/703779_wallpapers-dj-anime-girl-1280x800_1280x800_h.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8</link>
 <info>Uma programação repleta dos grandes sucessos dos animes, doramas e da música pop japonesa em geral!</info>
 </item>
 
+
 <item>
-<title>[B] [COLOR green]VIBE [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]K-POP [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/14660048951600695455/default</thumbnail>
+<fanart>https://themepack.me/i/c/749x467/media/g/623/anime-music-theme-vl4.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8</link>
+<info>O melhor da música pop coreana em uma programação que reúne os grandes nomes da indústria do k-pop!</info>
+</item>
+
+<item>
+<title>[B] [COLOR violet]VIBE [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/14623883771774082279/default</thumbnail>
-<fanart>https://i.pinimg.com/originals/d9/d4/40/d9d4406eda8b13a30a6a0de486f93402.gif</fanart>
+<fanart>https://i.pinimg.com/originals/4b/c2/95/4bc295df929c4019ed111e8311f5de2c.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8</link>
 <info>A estação principal do Vagalume com uma seleção de músicas com a nossa vibe.</info>
 </item>
+
+<item>
+<title>[B] [COLOR violet]BREEZE [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/1470679981257760/default</thumbnail>
+<fanart>https://gs2us.com/mobile/wp-content/uploads/2021/06/Anime-Music-Radio-MOD-APK-cover.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/1470679981257760/aac.m3u8</link>
+<info>Reggae, soft rock, folk rock</info>
+</item>
+
+<item>
+<title>[B] [COLOR violet]BREEZE [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/14660050141766497579/default</thumbnail>
+<fanart>https://www.nsvmundogeek.com.br/wp-content/uploads/2021/02/M%C3%BAsicas-de-animes-que-carregam-sentimentos.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8</link>
+<info>Os maiores hits da música pop do século XXI!</info>
+</item>
+
 
 
 
