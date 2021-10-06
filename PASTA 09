@@ -16,6 +16,8 @@ https://f25.fabricahost.com.br/89aradiorockgo?f=1617386991N65cc6e46fe3545b897730
 
 #EXTINF:-1 tvg-id="ROCK ANTENE" tvg-name="ROCK ANTENE" tvg-logo="https://i.ibb.co/9TPCNGf/ROCK.png" group-title="ROCK",ROCK ANTENE
 https://s5-webradio.rockantenne.de/heavy-metal/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1 tvg-id="ROCK ANTENE" tvg-name="ROCK ANTENE" tvg-logo="https://i.ibb.co/9TPCNGf/ROCK.png" group-title="ROCK",ESTAÇÃO ROCK VAGALUME
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 
 #EXTINF:-1 tvg-id="91 ROCK CURITIBA" tvg-name="91 ROCK CURITIBA" tvg-logo="https://i.ibb.co/9TPCNGf/ROCK.png" group-title="ROCK",91 ROCK CURITIBA
 https://servidor40.brlogic.com:8044/live?1617333840489
