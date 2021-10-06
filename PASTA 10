@@ -96,11 +96,19 @@
 </item>
 
 <item>
-<title>[B] [COLOR violet]BREEZE [/COLOR][/B]</title>		
+<title>[B] [COLOR violet]POP [/COLOR][/B]</title>		
 <thumbnail>https://www.vagalume.com.br/14660050141766497579/default</thumbnail>
 <fanart>https://www.nsvmundogeek.com.br/wp-content/uploads/2021/02/M%C3%BAsicas-de-animes-que-carregam-sentimentos.jpg</fanart>
 <link>https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8</link>
 <info>Os maiores hits da música pop do século XXI!</info>
+</item>
+
+<item>
+<title>[B] [COLOR violet]ELETRÔNICA [/COLOR][/B]</title>		
+<thumbnail>https://www.vagalume.com.br/146411300413492499/default</thumbnail>
+<fanart>https://i.pinimg.com/originals/34/c4/75/34c47501699bb2bf3ae2f5bcbc908a61.jpg</fanart>
+<link>https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8</link>
+<info>Curta o melhor da música eletrônica e todas suas vertentes, em uma programação com os melhores Dj's e produtores do planeta!</info>
 </item>
 
 
