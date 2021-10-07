@@ -48,6 +48,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel> 
+<name>[B][COLOR violet]AUDIO LIVROS[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Jn40Fh8/AUDIO-LIVROS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-3-PRINCIPAL/main/PASTA%2011</externallink>
+<fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
+<info>
+</channel>
+</channels>
+
 
 <channels>
 <channel>
