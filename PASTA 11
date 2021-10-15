@@ -18,9 +18,9 @@
 
 
 <item>
-<title>[B][COLOR white]Thrillers e Suspenses [/COLOR] [/B]</title>
+<title>[B][COLOR white]Coleção stephen king [/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvMAnpsEHAKVqfCOmGTPLh6MxAc9qJR7o/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvMAnpsEHAKUUq21C3kz0vd9z-lKTN0AS/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/RDLmnnj/terror.png</thumbnail>
 <fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
 </item>
