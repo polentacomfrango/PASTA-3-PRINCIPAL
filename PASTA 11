@@ -16,6 +16,13 @@
 <fanart>https://i.ibb.co/YZ5cVXC/Book-and-e-Book-Promotion-0-00-29-05.png</fanart>
 </item>
 
+<item>
+<title>[B][COLOR white]O diário de um banana[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvDqhC66mf1V3mWbu8y2gRI1R-z2FvKXl/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
 
 <item>
 <title>[B][COLOR white]Coleção stephen king [/COLOR] [/B]</title>
@@ -51,9 +58,9 @@
 
 
 <item>
-<title>[B][COLOR white]Sidney Sheldon[/COLOR] [/B]</title>
+<title>[B][COLOR white]Dan Brown[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvMAnpsEHAKWGl_jDQCkxf7STJQ50A-sO/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1BslUo_mxBkmjz3qYAcY4Eh/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/Xx2xprj/8.png</thumbnail>
 <fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
 </item>
@@ -62,6 +69,46 @@
 <title>[B][COLOR white]Paulo Coelho[/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLbG82jQY8Jdv_ILXLt2NHvyNzTNoztsM5/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]Game of Thrones[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1Bs9zlHrZeh6SNGI700xfFR/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]Percy Jackson[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1A-yu7EwaJqhPkTB_OmR6vu/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]The Witcher[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1ArldSem8L8Yf6EstkgmUJ_/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]A saga Crepúsculo[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1AAdSFYRu91jCIAENgBA_T2/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
+<fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]50 Tons de cinza[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqsZ2Crf4q1DJnxb5LouM8jwMtgb1dGlQ/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/7kBH1cj/4.png</thumbnail>
 <fanart>https://i.ibb.co/jb37jB4/audiolivro-vetor.jpg</fanart>
 </item>
