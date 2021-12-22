@@ -1,7 +1,18 @@
+
+
+
+<item>
+                <title>[B][COLOR white]365 no Estúdio Showlivre 2014[/COLOR] [/B]</title>
+                <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.youtube/play/?video_id=7x8yTC7wkg8&ab</link>
+		<info></info>
+</item>
+
 <item>
 		<title>[B]Charlie Brown Jr. – Chegou Quem Faltava (2021) [COLOR orange] HD 720p[/COLOR][/B]</title>
 		<thumbnail>https://i.ibb.co/1TNfy4z/char.png</thumbnail>
-		<fanart>https://i.ibb.co/vY3js3L/charli.png</fanart>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea628c70692f833ae7305755afb56608a4d467b2</link>
 		<info>SINOPSE: Após 10 anos, finalmente “Chegou Quem Faltava”! O show inédito do Charlie Brown Jr, gravado em 2011, no Citibank Hall em São Paulo, será disponibilizado pela primeira vez nas plataformas de streaming no dia 13/07, Dia Mundial do Rock.</info>
 	</item>
@@ -11,13 +22,13 @@
                 <link>ignoreme</link>
                  <jsonrpc>Plugin://plugin.video.youtube/playlist/PL2DA6SQLteYXpZ46WL_tPd-q5cMbLbkyT/?page=0</jsonrpc>
                  <thumbnail>https://i.ibb.co/vLJyZYr/ra-a-negra.png</thumbnail>
-                <fanart>https://i.ibb.co/M66cM8G/raca-negra-fanart.png</fanart>
+                <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 </item>
 
 <item>
                 <title>[B][COLOR white]RACIONAIS MC MIL TRUTAS E MIL TRETAS[/COLOR] [/B]</title>
                 <thumbnail>https://i.ibb.co/8rb5ghD/racionais.png</thumbnail>
-		<fanart>https://i.ibb.co/VgD3FDN/mil-trutas-fanart.png</fanart>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=A-7rTJUKaiU</link>
 		<info></info>
 </item>
@@ -25,7 +36,7 @@
 <item>
                 <title>[B][COLOR white]Consciência X Atual Ao Vivo No Sesc Ribeirão[/COLOR] [/B]</title>
                 <thumbnail>https://i.ibb.co/sWsDpqz/CONSCIENCIA-X-ATUAL.png</thumbnail>
-		<fanart>https://archive.org/services/img/ConscinciaXAtual-AoVivoNoSescRibeirro2013Rappratodos.blogspot.com.br/full/pct:500/0/default.jpg</fanart>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=FcDGboEN6LU</link>
 		<info></info>
 </item>
