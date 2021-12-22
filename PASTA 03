@@ -52,7 +52,7 @@
 
 <item>
                 <title>[B][COLOR white]Sabotage[/COLOR] [/B]</title>
-                <thumbnail>https://http2.mlstatic.com/D_NQ_NP_696410-MLB31091084134_062019-W.jpg</thumbnail>
+                <thumbnail>https://i.ibb.co/f0PS5RZ/sabotage.png</thumbnail>
 		<fanart>https://wallpapercave.com/wp/wp3147620.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=qkvTcgS9xiQ</link>
 		<info></info>
@@ -60,7 +60,7 @@
 
 <item>
                 <title>[B][COLOR white] Espaço Rap Ao Vivo[/COLOR] [/B]</title>
-                <thumbnail>https://i.ibb.co/G2cL9nd/espa-o.png</thumbnail>
+                <thumbnail>https://i.ibb.co/j37G5cv/espa-o-rap.png</thumbnail>
 		<fanart>https://i.ytimg.com/vi/izDTAoiokQU/maxresdefault.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=izDTAoiokQU</link>
 		<info></info>
@@ -68,7 +68,7 @@
 
 <item>
                 <title>[B][COLOR white] Facção Central[/COLOR] [/B]</title>
-                <thumbnail>https://i.ibb.co/L55ddsH/fac-ao.png</thumbnail>
+                <thumbnail>https://i.ibb.co/WFJcdCF/fac-o.png</thumbnail>
 		<fanart>https://i.ytimg.com/vi/n89n2KSy10E/maxresdefault.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=ASjdqJ9QD2c</link>
 		<info></info>
@@ -76,7 +76,7 @@
 
 <item>
                 <title>[B][COLOR white] Detentos do Rap Eternamente[/COLOR] [/B]</title>
-                <thumbnail>https://a-static.mlcdn.com.br/618x463/dvd-detentos-do-rap-eternamente-ao-vivo-dvd-cd-canal-3/alojadediscos/6483/f67c45997e1715d33e46d26787c772d7.jpg</thumbnail>
+                <thumbnail>https://i.ibb.co/3F8S1mM/detentos.png</thumbnail>
 		<fanart>http://2.bp.blogspot.com/-G4GoKw4d7ng/VPW_s_jQFyI/AAAAAAAABzQ/n2R1Vi0RSuE/s1600/Detentos%2BDo%2BRapdddddddd%2BEternamente.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=gtf1Sa89QNI</link>
 		<info></info>
@@ -88,13 +88,13 @@
                <title>Charlie Brown Jr - Acústico MTV[COLOR orange] YOUTUBE[/COLOR]</title>
                 <link>ignoreme</link>
                  <jsonrpc>Plugin://plugin.video.youtube/playlist/PLYBIV-IlR5H5L9gDzqUyoO4yJj2IZ0doa/?page=0</jsonrpc>
-                 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_656148-MLB29249520195_012019-O.jpg</thumbnail>
+                 <thumbnail>https://i.ibb.co/SdnL26m/charlie-acustico.png</thumbnail>
                 <fanart>https://1.bp.blogspot.com/--09sP-SCRwk/XxSF93f2xtI/AAAAAAAACU8/K55XiudSQR4AM0FwspmhI1ZABWo9tTd1wCLcBGAsYHQ/w1200-h630-p-k-no-nu/dvd-charlie-brown-jr-acustico-mtv-novo-lacrado-original-D_NQ_NP_713305-MLB20865081949_082016-F.jpg</fanart>
 </item>
 
   <item>
 		<title>CPM 22 - João Rock 2019[COLOR orange] YOUTUBE[/COLOR]</title>
-		<thumbnail>https://i.ibb.co/r2dyqVy/cp22.png</thumbnail>
+		<thumbnail>https://i.ibb.co/rxNsTBx/cpm22-jo-o.png</thumbnail>
 		<fanart>https://s2.glbimg.com/4ppHy5Y9J2bQ5-xMQY_jIpW-lG8=/0x0:1700x1062/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/B/M/obzON5RQC9wXf0Aeu7eg/dsc0129.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=qinYbjMdRgw</link>
 		<info></info>
@@ -103,7 +103,7 @@
   
 	<item>
 		<title>Ira! - Acústico MTV[COLOR orange] YOUTUBE[/COLOR]</title>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/718jo9iok5L._AC_SY550_.jpg</thumbnail>
+		<thumbnail>https://i.ibb.co/SyY6m4Q/ira-acustico.png</thumbnail>
 		<fanart>https://4.bp.blogspot.com/-upygPQ6wx2I/XDoKIXTXXII/AAAAAAAAL-U/wYNjlvAwRechO4qzBVT3z0Yx3i1kN5OnQCLcBGAs/w1200-h630-p-k-no-nu/AAAAAAAAAAAAAAAA.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=dbGMKSI9Yv4</link>
 		<info></info>
