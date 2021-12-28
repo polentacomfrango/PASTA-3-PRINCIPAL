@@ -12,16 +12,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR violet]SENTA QUE LÁ VEM HISTÓRIA[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/crdGyJ4/SENTA-QUE-L-VEM-HIST-RIA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/PASTA%201</externallink>
-<fanart>https://i.ibb.co/fnLcpK1/fanart-ANUBIS.png</fanart>
-<info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[B][COLOR violet]CDS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/KwZpN3p/CDS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-3-PRINCIPAL/main/PASTA%20%2001</externallink>
@@ -65,6 +55,16 @@
 <name>[B][COLOR violet]SHOWS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/W0JQVFF/SHOWS-MENU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-3-PRINCIPAL/main/PASTA%2008</externallink>
+<fanart>https://i.ibb.co/fnLcpK1/fanart-ANUBIS.png</fanart>
+<info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR violet]SENTA QUE LÁ VEM HISTÓRIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/crdGyJ4/SENTA-QUE-L-VEM-HIST-RIA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/PASTA%201</externallink>
 <fanart>https://i.ibb.co/fnLcpK1/fanart-ANUBIS.png</fanart>
 <info>
 </channel>
