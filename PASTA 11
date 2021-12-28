@@ -9,7 +9,7 @@
 
 <item>
  <title>[B][COLOR white]Moby Dick[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/8zW5fb0/moby-dick.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=h337tDteHyo</link>
  <info></info>
@@ -17,7 +17,7 @@
  
  <item>
  <title>[B][COLOR white]O Mercador de Veneza[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/kDjrW04/o-mercador-de-veneza.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=k3hpCKXCIU0</link>
  <info></info>
@@ -25,7 +25,7 @@
  
  <item>
  <title>[B][COLOR white]Drácula[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/3N0THyY/dracula.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=sUT7WIxtYVQ</link>
  <info></info>
@@ -33,7 +33,7 @@
  
   <item>
  <title>[B][COLOR white]O Morro dos Ventos Uivantes[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/wYj7j70/o-moro-dos-ventos.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=-5iFms-KRuQ</link>
  <info></info>
@@ -41,7 +41,7 @@
  
  <item>
  <title>[B][COLOR white]Dom Quixote[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/SsCyDqy/dom-quixote.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=OLSvH20MQXw</link>
  <info></info>
@@ -49,7 +49,7 @@
 
 <item>
  <title>[B][COLOR white]Ilíada[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/bXWs01s/Il-ada.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=XP2FQRTAqJM</link>
  <info></info>
@@ -57,7 +57,7 @@
  
  <item>
  <title>[B][COLOR white]Odisséia[/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/1XJjLnb/a-odisseia.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=FvMPspYDx7c</link>
  <info></info>
@@ -65,10 +65,41 @@
  
  <item>
  <title>[B][COLOR white]A Divina Comédia Inferno Dante Alighieri [/COLOR] [/B]</title>
- <thumbnail>https://i.ibb.co/Zf427Qx/365.png</thumbnail>
+ <thumbnail>https://i.ibb.co/XVLWqP4/a-divina-comedia-inferno.png</thumbnail>
  <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=Dz0Jajt7LtY</link>
+ <info></info>
+ </item>
+ 
+ <item>
+ <title>[B][COLOR white]A Divina Comédia Purgatório Dante Alighieri [/COLOR] [/B]</title>
+ <thumbnail>https://i.ibb.co/JRsVPRC/a-divina-comedia-purgat-rio.png</thumbnail>
+ <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
  <link>plugin://plugin.video.youtube/play/?video_id=yt9QigfKfiE</link>
+ <info></info>
+ </item>
+ 
+ <item>
+ <title>[B][COLOR white]A Divina Comédia Paraíso Dante Alighieri [/COLOR] [/B]</title>
+ <thumbnail>https://i.ibb.co/0mRQVBr/a-divina-comedia-paraiso.png</thumbnail>
+ <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+ <link>plugin://plugin.video.youtube/play/?video_id=ZjHzeVvqqJI</link>
+ <info></info>
+ </item>
+ 
+ <item>
+ <title>[B][COLOR white]Vidas secas [/COLOR] [/B]</title>
+ <thumbnail>https://i.ibb.co/PhR4p1B/vidas-secas.png</thumbnail>
+ <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+ <link>plugin://plugin.video.youtube/play/?video_id=xIO1syakdSc</link>
+ <info></info>
+ </item>
+ 
+ <item>
+ <title>[B][COLOR white]Dom Casmurro [/COLOR] [/B]</title>
+ <thumbnail>https://i.ibb.co/vwK7XvX/dom-casmurro.png</thumbnail>
+ <fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+ <link>plugin://plugin.video.youtube/play/?video_id=xIO1syakdSc</link>
  <info></info>
  </item>
 
